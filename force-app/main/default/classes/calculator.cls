@@ -9,4 +9,8 @@ public with sharing class calculator{
     public Integer sub(Integer a, Integer b){
         return (a - b); //
     }
+
+    public Integer mul(Integer a, Integer b){
+        return (a * b); //
+    }
 }
