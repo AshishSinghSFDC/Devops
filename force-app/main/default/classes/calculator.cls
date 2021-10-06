@@ -7,6 +7,6 @@ public with sharing class calculator{
     }
 
     public Integer sub(Integer a, Integer b){
-        return (a - b); //Comment Missing
+        return (a - b); //
     }
 }
