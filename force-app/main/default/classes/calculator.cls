@@ -14,6 +14,7 @@ public with sharing class calculator{
         return (a * b); //
     }
 
+    //This is Division function
     public Integer div(Integer a, Integer b){
         return (a / b); //
     }
