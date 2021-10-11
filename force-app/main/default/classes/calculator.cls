@@ -10,6 +10,7 @@ public with sharing class calculator{
         return (a - b); //
     }
 
+    //This is Multiplication function
     public Integer mul(Integer a, Integer b){
         return (a * b); //
     }
