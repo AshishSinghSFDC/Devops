@@ -15,6 +15,7 @@ public with sharing class calculator{
     }
 
     public Integer div(Integer a, Integer b){
-        return (a / b); //
+        return (a / b);
+        System.debug('ashish');
     }
 }
